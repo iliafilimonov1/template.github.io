@@ -1,19 +1,11 @@
 # Template project
 
 
-## Setup
+## Instructions 📋
 
-**First time**
-
-```bash
-* git clone https://github.com/iliafilimonov1/template.github.io.git
-
-* cd template.github.io
-
-* download node js [nodejs](https://nodejs.org/en/download)
-
+* Download application
+* Run terminal inside this folder
 * npm install --global http-server
-```
 
 **Then you can run the server**
 
